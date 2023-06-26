@@ -21,4 +21,8 @@
     <ProjectReference Include="..\Clean.Architecture.Core\Clean.Architecture.Core.csproj" />
     <ProjectReference Include="..\Clean.Architecture.SharedKernel\Clean.Architecture.SharedKernel.csproj" />
   </ItemGroup>
+  
+  <ItemGroup>
+    <Folder Include="Migrations\" />
+  </ItemGroup>
 </Project>
